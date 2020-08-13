@@ -124,6 +124,10 @@ p {
     text-align: justify;
 }
 
+.p-foot {
+    text-align: center;
+}
+
 .service {
     margin-bottom: 20px;
 }
@@ -256,6 +260,7 @@ footer {
 }
 
 .brand {
+    text-align: center;
     font-weight: 500;
     font-size: 40px;
 }
