@@ -120,6 +120,10 @@ header {
     width: 45%;
 }
 
+p {
+    text-align: justify;
+}
+
 .service {
     margin-bottom: 20px;
 }
